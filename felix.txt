@@ -5,3 +5,6 @@ vierder
 vijfde
 zesde\
 zevende
+if(this = true){
+	alert();
+}
